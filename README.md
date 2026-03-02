@@ -17,14 +17,14 @@ Mechanical Engineering @ UW • Focused on Marine Systems & Aerospace
 <div align="center">
 
 ### ⚙️ About Me
-I’m a Mechanical Engineering student at UW with a deep interest in the intersection of maritime technology and aerospace manufacturing. I enjoy solving complex thermal-fluid problems and designing for high-stress environments.
+I’m a Mechanical Engineering student at UW with a deep interest in the intersection of maritime technology and aerospace manufacturing. I enjoy solving complex design problems and designing for high-stress environments.
 
 Right now my focus is on:
 
-‣ 🛫 **Aerospace Manufacturing:** Streamlining assembly via my upcoming role at Boeing      
-‣ 🌊 **Marine Propulsion:** Optimizing hull efficiency and sustainable naval power systems                      
-‣ 🤖 **Mechatronics:** Building autonomous underwater vehicles (AUVs)  
-‣ 🛠️ **Generative Design:** Using AI-driven CAD tools to reduce component weight
+‣ 🛫 **Aerospace Engineering**      
+‣ 🌊 **Marine Engineering** Currently in UW Humamn Powered Submarine                    
+‣ 🤖 **Mechanical Engineering**  
+‣ 🛠️ **3D Modeling** Using Onshape, AUTODESK, and SOLIDWORKS 
 
 </div>
 
@@ -37,21 +37,19 @@ Right now my focus is on:
 <td valign="top" width="50%" align="center">
 
 ### 🏗️ Professional & Projects
-‣ ✈️ **Boeing Internship** Focusing on structural analysis and production engineering for commercial aircraft.
+‣ ✈️ **Boeing Internship** Summer 2026
 
-‣ 🚢 **Autonomous Hull Cleaner** Designing a robotic system to remove biofouling from marine vessels.
-
-‣ 🏎️ **Formula SAE** Optimizing cooling systems for high-performance electric drivetrains.
+‣ 🚢 **UW Human Powered Submarine** 2025-2026
 
 </td>
 
 <td valign="top" width="50%" align="center">
 
 ### 🌱 Technical Interests
-‣ 💧 Fluid Mechanics & CFD  
-‣ 🔩 Structural Integrity Testing  
-‣ 🛰️ Satellite Systems Integration  
-‣ ⚓ Naval Architecture 
+‣ 💧 Fluid Mechanics 
+‣ 🔩 Manufacturing
+‣ 🛰️ Aerodynamics and Flight  
+‣ ⚓ Naval Engineering
 
 </td>
 </tr>
@@ -66,11 +64,11 @@ Right now my focus is on:
 ### 📫 Connect with Me
 
 <p>
-<a href="https://www.linkedin.com/in/jacobkim/">
+<a href="https://www.linkedin.com/in/jacob-kim-9033a7390/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </p>
 
-Email: jkim07@uw.edu
+Email: jsk630@uw.edu
 
 </div>
